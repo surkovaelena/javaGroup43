@@ -74,4 +74,5 @@ public class Main_Git {
  * 2. —сылка на терминал: https://git-scm.com/downloads
  * 3. ќбучение git: https://learngitbranching.js.org/?locale=ru_RU
  */
+//6789990
 }
